@@ -59,7 +59,7 @@
         'hp'    => '320 HP',             // ← Change stock HP
         'cat'   => 'JDM',                // ← Change category
         'desc'  => '2JZ-GTE. The legend.', // ← Change description
-        'image' => 'images/cars/black-bmw.jpg', 
+        'image' => 'black-bmw.jpg', 
       ],
       [
         'id'    => 'car2',
@@ -69,7 +69,7 @@
         'hp'    => '276 HP',
         'cat'   => 'JDM',
         'desc'  => 'RB26DETT twin-turbo icon.',
-        'image' => 'images/cars/lamborghini.avif', 
+        'image' => 'lamborghini.avif', 
       ],
       [
         'id'    => 'car3',
@@ -79,7 +79,7 @@
         'hp'    => '255 HP',
         'cat'   => 'JDM',
         'desc'  => '13B rotary, lightweight, perfect.',
-        'image' => 'images/cars/porsche-911.jpeg',
+        'image' => 'porsche-911.jpeg',
       ],
       [
         'id'    => 'car4',
@@ -89,7 +89,7 @@
         'hp'    => '343 HP',
         'cat'   => 'EURO',
         'desc'  => 'High-revving S54 inline-six.',
-        'image' => 'images/cars/chevrolet corvette.jpeg', 
+        'image' => 'chevrolet-corvette.jpeg', 
       ],
       [
         'id'    => 'car5',
@@ -99,7 +99,7 @@
         'hp'    => '460 HP',
         'cat'   => 'MUSCLE',
         'desc'  => 'Coyote 5.0 V8 American icon.',
-        'image' => 'images/cars/ford bronco.png',
+        'image' => 'ford bronco.png',
       ],
       [
         'id'    => 'car6',
@@ -109,7 +109,7 @@
         'hp'    => '237 HP',
         'cat'   => 'JDM',
         'desc'  => '9000 RPM naturally-aspirated joy.',
-        'image' => 'images/cars/gwagon.png', 
+        'image' => 'gwagon.png', 
       ],
     ];
 
