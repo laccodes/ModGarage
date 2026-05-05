@@ -63,7 +63,7 @@ $mods = [
       'name'  => 'Hi-Power Cat-Back',
       'desc'  => '3" stainless steel. Deep throaty tone with significant mid-range flow gains.',
       'price' => 1149.00,
-      'image' => 'pink exhast.jpg',
+      'image' => 'pink exhaust.jpg',
     ],
     [
       'id'    => 'exh2',
@@ -109,7 +109,7 @@ $mods = [
       'name'  => 'XB LED Headlights',
       'desc'  => 'Plug-and-play full LED system with sequential DRL halo ring. Pair.',
       'price' => 649.00,
-      'image' => 'blue lights .jpg',
+      'image' => 'blue lights.jpg',
     ],
   ],
 
